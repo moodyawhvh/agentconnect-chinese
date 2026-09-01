@@ -1,22 +1,41 @@
-# agentconnect - 中文版
+<div align="center">
 
-> **原项目 / Original:** [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect)
->
-> **代部署/定制服务请联系微信：uaycar**
+# agentconnect 中文版
+
+**[中文版] AgentConnect — 开源多 Agent 协作平台，随时随地连接任何 Agent**
+
+[![原项目](https://img.shields.io/badge/原项目-agentconnect-md--agentconnect-blue?style=flat-square&logo=github)](https://github.com/agentconnect-md/agentconnect)
+[![微信联系](https://img.shields.io/badge/微信-uaycar-brightgreen?style=flat-square&logo=wechat)](#)
+
+</div>
 
 ---
 
-## 关于本项目
+## 项目简介
 
-本项目是 **[agentconnect](https://github.com/agentconnect-md/agentconnect)** 的中文翻译版本。
+AgentConnect 是开源多 Agent 协作平台。你可以在任何工作场景中连接任何 Agent，它们会自动加入协作，与你的团队并肩工作。
 
-🔗 **完整源代码请访问原项目：** https://github.com/agentconnect-md/agentconnect
+## 相关链接
+
+| 链接 | 说明 |
+|:-----|:-----|
+| [原项目](https://github.com/agentconnect-md/agentconnect) | 完整源代码，请访问原项目获取 |
+| [原版 README](README.md) | 英文原版说明文档 |
 
 ## 快速开始
 
-请参考 [原项目 README](https://github.com/agentconnect-md/agentconnect) 获取完整的安装和使用说明。
+完整源代码请访问原项目：https://github.com/agentconnect-md/agentconnect
+
+请参考原项目的 README 获取完整的安装和使用说明。
+
+---
 
 ## 联系方式
 
-- 📱 微信：**uaycar**
-- 🔗 原项目：https://github.com/agentconnect-md/agentconnect
+**代部署 / 定制服务 / 技术咨询 请添加微信：uaycar**
+
+---
+
+本项目为 [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) 的中文翻译版本，所有代码版权归原作者所有。
+
+**如果觉得有用，请给原项目点个 Star！**
